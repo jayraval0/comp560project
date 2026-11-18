@@ -1,10 +1,3 @@
-"""Synthetic financial news classification and t-SNE visualization.
-
-Vectorize news semantics (upgrades, downgrades, positive, negative), reduce with
-Truncated SVD, visualize with t-SNE at increasing sample sizes, and save the
-reusable text embedding and classification models.
-"""
-
 from __future__ import annotations
 
 import json
@@ -16,15 +9,17 @@ import joblib
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from sklearn.decomposition import TruncatedSVD
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.manifold import TSNE
-from sklearn.model_selection import StratifiedGroupKFold, StratifiedKFold, cross_val_score
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import LabelEncoder
+from sklearn.decomposition import TruncatedSVD #SVD for dimensionality reduction
+from sklearn.feature_extraction.text import TfidfVectorizer #converts text to numerical features using TF-IDF
+from sklearn.linear_model import LogisticRegression #Classifies the financial headlines
+from sklearn.manifold import TSNE #2d visualization of high-dimensional data
+from sklearn.model_selection import StratifiedGroupKFold, StratifiedKFold, cross_val_score #preserves percent and proportion of target classes across folds 
+from sklearn.pipeline import Pipeline #connects the ML steps into a single object
+from sklearn.preprocessing import LabelEncoder #converts labels to ints
 
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s - %(levelname)s] %(message)s")
+
+# Global settings and constants
 
 ROOT = Path(__file__).resolve().parent
 MODEL_DIR = ROOT / "models"
@@ -40,8 +35,9 @@ CLASS_COLORS = {
 SAMPLE_SIZES = [60, 120, 180, 240]
 
 
+#Generates the synthetic financial news corpus with labeled headlines
+
 def build_news_corpus() -> pd.DataFrame:
-    """Labeled financial headlines: upgrades, downgrades, and broader pos/neg news."""
     tickers = [
         "Apple", "Microsoft", "Amazon", "Google", "Tesla", "Nvidia", "JPMorgan",
         "Johnson & Johnson", "Visa", "Procter & Gamble", "UnitedHealth", "Mastercard",
@@ -160,6 +156,7 @@ def build_news_corpus() -> pd.DataFrame:
     logging.info("Seed news corpus size: %s", len(df))
     return df
 
+# Build dataset and selects representative samples while keeping classes balanced
 
 def stratified_sample(df: pd.DataFrame, n: int, rng: np.random.Generator) -> pd.DataFrame:
     n = min(n, len(df))
@@ -174,6 +171,7 @@ def stratified_sample(df: pd.DataFrame, n: int, rng: np.random.Generator) -> pd.
         sample = sample.iloc[:n]
     return sample.reset_index(drop=True)
 
+# Converts text into numerical vectors using TF-IDF and reduces dimensionality with Truncated SVD
 
 def build_embedding_pipeline(n_components: int = 40) -> Pipeline:
     """Reusable embedding model: TF-IDF news vectors -> Truncated SVD."""
@@ -193,6 +191,7 @@ def build_embedding_pipeline(n_components: int = 40) -> Pipeline:
         ]
     )
 
+# Reduce embeddings into 2D
 
 def fit_tsne(embeddings: np.ndarray, perplexity: float) -> np.ndarray:
     perplexity = max(5.0, min(perplexity, (len(embeddings) - 1) / 3.0))
@@ -206,6 +205,7 @@ def fit_tsne(embeddings: np.ndarray, perplexity: float) -> np.ndarray:
     )
     return tsne.fit_transform(embeddings)
 
+# Creates a simple baseline to compare against the machine learning classifier 
 
 def keyword_label(headline: str) -> str:
     """Apply a fixed keyword rule; default to positive when no rule matches."""
@@ -218,6 +218,7 @@ def keyword_label(headline: str) -> str:
         return "negative"
     return "positive"
 
+# Returns the classification accuracy of the ML classifier and the keyword baseline
 
 def evaluate_classifiers(sample: pd.DataFrame, n_components: int) -> dict:
     headlines = sample["headline"]
@@ -243,6 +244,7 @@ def evaluate_classifiers(sample: pd.DataFrame, n_components: int) -> dict:
         }
     return scores
 
+# Plots the t-SNE (4 for each sample size)
 
 def plot_tsne_panels(results: list[dict], path: Path) -> None:
     fig, axes = plt.subplots(2, 2, figsize=(11, 9))
@@ -277,6 +279,7 @@ def plot_tsne_panels(results: list[dict], path: Path) -> None:
     plt.close(fig)
     logging.info("Saved %s", path)
 
+# Plots the classification accuracy of the ML classifier and the keyword baseline
 
 def plot_classification_accuracy(results: list[dict], path: Path) -> None:
     ns = [r["n"] for r in results]
@@ -300,6 +303,7 @@ def plot_classification_accuracy(results: list[dict], path: Path) -> None:
     plt.close()
     logging.info("Saved %s", path)
 
+# Runs the pipeline 
 
 def main() -> None:
     MODEL_DIR.mkdir(exist_ok=True)
