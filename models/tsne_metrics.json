@@ -1,0 +1,67 @@
+{
+  "corpus_size": 260,
+  "classes": [
+    "upgrade",
+    "downgrade",
+    "positive",
+    "negative"
+  ],
+  "evaluation": "Mean accuracy across five folds with fold-fitted preprocessing. Template holdout keeps wording variants together.",
+  "sample_sizes": [
+    {
+      "n": 60,
+      "headline_split": {
+        "classifier": 0.65,
+        "keyword_baseline": 0.7333333333333333
+      },
+      "template_split": {
+        "classifier": 0.19616605616605615,
+        "keyword_baseline": 0.7422466422466422
+      }
+    },
+    {
+      "n": 120,
+      "headline_split": {
+        "classifier": 0.8166666666666668,
+        "keyword_baseline": 0.7833333333333334
+      },
+      "template_split": {
+        "classifier": 0.2720267558528428,
+        "keyword_baseline": 0.7852240802675585
+      }
+    },
+    {
+      "n": 180,
+      "headline_split": {
+        "classifier": 0.8833333333333332,
+        "keyword_baseline": 0.7555555555555555
+      },
+      "template_split": {
+        "classifier": 0.162913064661064,
+        "keyword_baseline": 0.7544220773863543
+      }
+    },
+    {
+      "n": 240,
+      "headline_split": {
+        "classifier": 0.9208333333333334,
+        "keyword_baseline": 0.7625
+      },
+      "template_split": {
+        "classifier": 0.11779185221147356,
+        "keyword_baseline": 0.7629878413627169
+      }
+    }
+  ],
+  "models": {
+    "embedding": "models/news_embedding_svd.joblib",
+    "classifier": "models/news_classifier.joblib",
+    "label_encoder": "models/news_label_encoder.joblib",
+    "tsne_csv": [
+      "models/tsne_n60_embeddings.csv",
+      "models/tsne_n120_embeddings.csv",
+      "models/tsne_n180_embeddings.csv",
+      "models/tsne_n240_embeddings.csv"
+    ]
+  }
+}

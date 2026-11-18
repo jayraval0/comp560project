@@ -1,0 +1,261 @@
+headline,label,ticker,source,template_group
+Goldman Sachs upgrades Apple to overweight and raises its price target,upgrade,Apple,seed,upgrade:0
+JPMorgan upgrades Microsoft to overweight and raises its price target,upgrade,Microsoft,seed,upgrade:0
+Barclays upgrades Amazon to overweight and raises its price target,upgrade,Amazon,seed,upgrade:0
+Wells Fargo upgrades Google to overweight and raises its price target,upgrade,Google,seed,upgrade:0
+Deutsche Bank upgrades Tesla to overweight and raises its price target,upgrade,Tesla,seed,upgrade:0
+Goldman Sachs upgrades Nvidia to overweight and raises its price target,upgrade,Nvidia,seed,upgrade:0
+Morgan Stanley lifts Microsoft to buy citing accelerating earnings momentum,upgrade,Microsoft,seed,upgrade:1
+Bank of America lifts Amazon to buy citing accelerating earnings momentum,upgrade,Amazon,seed,upgrade:1
+Citi lifts Google to buy citing accelerating earnings momentum,upgrade,Google,seed,upgrade:1
+UBS lifts Tesla to buy citing accelerating earnings momentum,upgrade,Tesla,seed,upgrade:1
+Jefferies lifts Nvidia to buy citing accelerating earnings momentum,upgrade,Nvidia,seed,upgrade:1
+Morgan Stanley lifts JPMorgan to buy citing accelerating earnings momentum,upgrade,JPMorgan,seed,upgrade:1
+Analyst upgrade: Amazon moved to outperform on stronger guidance,upgrade,Amazon,seed,upgrade:2
+Analyst upgrade: Google moved to outperform on stronger guidance,upgrade,Google,seed,upgrade:2
+Analyst upgrade: Tesla moved to outperform on stronger guidance,upgrade,Tesla,seed,upgrade:2
+Analyst upgrade: Nvidia moved to outperform on stronger guidance,upgrade,Nvidia,seed,upgrade:2
+Analyst upgrade: JPMorgan moved to outperform on stronger guidance,upgrade,JPMorgan,seed,upgrade:2
+Analyst upgrade: Johnson & Johnson moved to outperform on stronger guidance,upgrade,Johnson & Johnson,seed,upgrade:2
+Bank of America initiates Google at overweight with a Street-high target,upgrade,Google,seed,upgrade:3
+Citi initiates Tesla at overweight with a Street-high target,upgrade,Tesla,seed,upgrade:3
+UBS initiates Nvidia at overweight with a Street-high target,upgrade,Nvidia,seed,upgrade:3
+Jefferies initiates JPMorgan at overweight with a Street-high target,upgrade,JPMorgan,seed,upgrade:3
+Morgan Stanley initiates Johnson & Johnson at overweight with a Street-high target,upgrade,Johnson & Johnson,seed,upgrade:3
+Bank of America initiates Visa at overweight with a Street-high target,upgrade,Visa,seed,upgrade:3
+Tesla receives a double upgrade to strong buy after beat-and-raise quarter,upgrade,Tesla,seed,upgrade:4
+Nvidia receives a double upgrade to strong buy after beat-and-raise quarter,upgrade,Nvidia,seed,upgrade:4
+JPMorgan receives a double upgrade to strong buy after beat-and-raise quarter,upgrade,JPMorgan,seed,upgrade:4
+Johnson & Johnson receives a double upgrade to strong buy after beat-and-raise quarter,upgrade,Johnson & Johnson,seed,upgrade:4
+Visa receives a double upgrade to strong buy after beat-and-raise quarter,upgrade,Visa,seed,upgrade:4
+Procter & Gamble receives a double upgrade to strong buy after beat-and-raise quarter,upgrade,Procter & Gamble,seed,upgrade:4
+Citi upgrades Nvidia on improving free-cash-flow outlook,upgrade,Nvidia,seed,upgrade:5
+UBS upgrades JPMorgan on improving free-cash-flow outlook,upgrade,JPMorgan,seed,upgrade:5
+Jefferies upgrades Johnson & Johnson on improving free-cash-flow outlook,upgrade,Johnson & Johnson,seed,upgrade:5
+Morgan Stanley upgrades Visa on improving free-cash-flow outlook,upgrade,Visa,seed,upgrade:5
+Bank of America upgrades Procter & Gamble on improving free-cash-flow outlook,upgrade,Procter & Gamble,seed,upgrade:5
+Citi upgrades UnitedHealth on improving free-cash-flow outlook,upgrade,UnitedHealth,seed,upgrade:5
+Street upgrade hits JPMorgan as Wells Fargo turns constructive on the sector,upgrade,JPMorgan,seed,upgrade:6
+Street upgrade hits Johnson & Johnson as Deutsche Bank turns constructive on the sector,upgrade,Johnson & Johnson,seed,upgrade:6
+Street upgrade hits Visa as Goldman Sachs turns constructive on the sector,upgrade,Visa,seed,upgrade:6
+Street upgrade hits Procter & Gamble as JPMorgan turns constructive on the sector,upgrade,Procter & Gamble,seed,upgrade:6
+Street upgrade hits UnitedHealth as Barclays turns constructive on the sector,upgrade,UnitedHealth,seed,upgrade:6
+Street upgrade hits Mastercard as Wells Fargo turns constructive on the sector,upgrade,Mastercard,seed,upgrade:6
+UBS raises Johnson & Johnson to conviction buy after channel checks improve,upgrade,Johnson & Johnson,seed,upgrade:7
+Jefferies raises Visa to conviction buy after channel checks improve,upgrade,Visa,seed,upgrade:7
+Morgan Stanley raises Procter & Gamble to conviction buy after channel checks improve,upgrade,Procter & Gamble,seed,upgrade:7
+Bank of America raises UnitedHealth to conviction buy after channel checks improve,upgrade,UnitedHealth,seed,upgrade:7
+Citi raises Mastercard to conviction buy after channel checks improve,upgrade,Mastercard,seed,upgrade:7
+UBS raises Disney to conviction buy after channel checks improve,upgrade,Disney,seed,upgrade:7
+Visa upgraded to overweight; target price hiked on multiple expansion,upgrade,Visa,seed,upgrade:8
+Procter & Gamble upgraded to overweight; target price hiked on multiple expansion,upgrade,Procter & Gamble,seed,upgrade:8
+UnitedHealth upgraded to overweight; target price hiked on multiple expansion,upgrade,UnitedHealth,seed,upgrade:8
+Mastercard upgraded to overweight; target price hiked on multiple expansion,upgrade,Mastercard,seed,upgrade:8
+Disney upgraded to overweight; target price hiked on multiple expansion,upgrade,Disney,seed,upgrade:8
+Adobe upgraded to overweight; target price hiked on multiple expansion,upgrade,Adobe,seed,upgrade:8
+Jefferies upgrades Procter & Gamble from hold to buy following a product-cycle refresh,upgrade,Procter & Gamble,seed,upgrade:9
+Morgan Stanley upgrades UnitedHealth from hold to buy following a product-cycle refresh,upgrade,UnitedHealth,seed,upgrade:9
+Bank of America upgrades Mastercard from hold to buy following a product-cycle refresh,upgrade,Mastercard,seed,upgrade:9
+Citi upgrades Disney from hold to buy following a product-cycle refresh,upgrade,Disney,seed,upgrade:9
+UBS upgrades Adobe from hold to buy following a product-cycle refresh,upgrade,Adobe,seed,upgrade:9
+Jefferies upgrades PayPal from hold to buy following a product-cycle refresh,upgrade,PayPal,seed,upgrade:9
+Goldman Sachs downgrades Apple to underweight and cuts its price target,downgrade,Apple,seed,downgrade:0
+JPMorgan downgrades Microsoft to underweight and cuts its price target,downgrade,Microsoft,seed,downgrade:0
+Barclays downgrades Amazon to underweight and cuts its price target,downgrade,Amazon,seed,downgrade:0
+Wells Fargo downgrades Google to underweight and cuts its price target,downgrade,Google,seed,downgrade:0
+Deutsche Bank downgrades Tesla to underweight and cuts its price target,downgrade,Tesla,seed,downgrade:0
+Goldman Sachs downgrades Nvidia to underweight and cuts its price target,downgrade,Nvidia,seed,downgrade:0
+Morgan Stanley slashes Microsoft to sell citing fading earnings momentum,downgrade,Microsoft,seed,downgrade:1
+Bank of America slashes Amazon to sell citing fading earnings momentum,downgrade,Amazon,seed,downgrade:1
+Citi slashes Google to sell citing fading earnings momentum,downgrade,Google,seed,downgrade:1
+UBS slashes Tesla to sell citing fading earnings momentum,downgrade,Tesla,seed,downgrade:1
+Jefferies slashes Nvidia to sell citing fading earnings momentum,downgrade,Nvidia,seed,downgrade:1
+Morgan Stanley slashes JPMorgan to sell citing fading earnings momentum,downgrade,JPMorgan,seed,downgrade:1
+Analyst downgrade: Amazon moved to underperform on weaker guidance,downgrade,Amazon,seed,downgrade:2
+Analyst downgrade: Google moved to underperform on weaker guidance,downgrade,Google,seed,downgrade:2
+Analyst downgrade: Tesla moved to underperform on weaker guidance,downgrade,Tesla,seed,downgrade:2
+Analyst downgrade: Nvidia moved to underperform on weaker guidance,downgrade,Nvidia,seed,downgrade:2
+Analyst downgrade: JPMorgan moved to underperform on weaker guidance,downgrade,JPMorgan,seed,downgrade:2
+Analyst downgrade: Johnson & Johnson moved to underperform on weaker guidance,downgrade,Johnson & Johnson,seed,downgrade:2
+Bank of America initiates Google at underweight with a Street-low target,downgrade,Google,seed,downgrade:3
+Citi initiates Tesla at underweight with a Street-low target,downgrade,Tesla,seed,downgrade:3
+UBS initiates Nvidia at underweight with a Street-low target,downgrade,Nvidia,seed,downgrade:3
+Jefferies initiates JPMorgan at underweight with a Street-low target,downgrade,JPMorgan,seed,downgrade:3
+Morgan Stanley initiates Johnson & Johnson at underweight with a Street-low target,downgrade,Johnson & Johnson,seed,downgrade:3
+Bank of America initiates Visa at underweight with a Street-low target,downgrade,Visa,seed,downgrade:3
+Tesla receives a double downgrade to strong sell after a miss,downgrade,Tesla,seed,downgrade:4
+Nvidia receives a double downgrade to strong sell after a miss,downgrade,Nvidia,seed,downgrade:4
+JPMorgan receives a double downgrade to strong sell after a miss,downgrade,JPMorgan,seed,downgrade:4
+Johnson & Johnson receives a double downgrade to strong sell after a miss,downgrade,Johnson & Johnson,seed,downgrade:4
+Visa receives a double downgrade to strong sell after a miss,downgrade,Visa,seed,downgrade:4
+Procter & Gamble receives a double downgrade to strong sell after a miss,downgrade,Procter & Gamble,seed,downgrade:4
+Citi downgrades Nvidia on deteriorating free-cash-flow outlook,downgrade,Nvidia,seed,downgrade:5
+UBS downgrades JPMorgan on deteriorating free-cash-flow outlook,downgrade,JPMorgan,seed,downgrade:5
+Jefferies downgrades Johnson & Johnson on deteriorating free-cash-flow outlook,downgrade,Johnson & Johnson,seed,downgrade:5
+Morgan Stanley downgrades Visa on deteriorating free-cash-flow outlook,downgrade,Visa,seed,downgrade:5
+Bank of America downgrades Procter & Gamble on deteriorating free-cash-flow outlook,downgrade,Procter & Gamble,seed,downgrade:5
+Citi downgrades UnitedHealth on deteriorating free-cash-flow outlook,downgrade,UnitedHealth,seed,downgrade:5
+Street downgrade hits JPMorgan as Wells Fargo turns cautious on the sector,downgrade,JPMorgan,seed,downgrade:6
+Street downgrade hits Johnson & Johnson as Deutsche Bank turns cautious on the sector,downgrade,Johnson & Johnson,seed,downgrade:6
+Street downgrade hits Visa as Goldman Sachs turns cautious on the sector,downgrade,Visa,seed,downgrade:6
+Street downgrade hits Procter & Gamble as JPMorgan turns cautious on the sector,downgrade,Procter & Gamble,seed,downgrade:6
+Street downgrade hits UnitedHealth as Barclays turns cautious on the sector,downgrade,UnitedHealth,seed,downgrade:6
+Street downgrade hits Mastercard as Wells Fargo turns cautious on the sector,downgrade,Mastercard,seed,downgrade:6
+UBS cuts Johnson & Johnson to underperform after channel checks weaken,downgrade,Johnson & Johnson,seed,downgrade:7
+Jefferies cuts Visa to underperform after channel checks weaken,downgrade,Visa,seed,downgrade:7
+Morgan Stanley cuts Procter & Gamble to underperform after channel checks weaken,downgrade,Procter & Gamble,seed,downgrade:7
+Bank of America cuts UnitedHealth to underperform after channel checks weaken,downgrade,UnitedHealth,seed,downgrade:7
+Citi cuts Mastercard to underperform after channel checks weaken,downgrade,Mastercard,seed,downgrade:7
+UBS cuts Disney to underperform after channel checks weaken,downgrade,Disney,seed,downgrade:7
+Visa downgraded to equal-weight; target price reduced on multiple compression,downgrade,Visa,seed,downgrade:8
+Procter & Gamble downgraded to equal-weight; target price reduced on multiple compression,downgrade,Procter & Gamble,seed,downgrade:8
+UnitedHealth downgraded to equal-weight; target price reduced on multiple compression,downgrade,UnitedHealth,seed,downgrade:8
+Mastercard downgraded to equal-weight; target price reduced on multiple compression,downgrade,Mastercard,seed,downgrade:8
+Disney downgraded to equal-weight; target price reduced on multiple compression,downgrade,Disney,seed,downgrade:8
+Adobe downgraded to equal-weight; target price reduced on multiple compression,downgrade,Adobe,seed,downgrade:8
+Jefferies downgrades Procter & Gamble from buy to hold following a product delay,downgrade,Procter & Gamble,seed,downgrade:9
+Morgan Stanley downgrades UnitedHealth from buy to hold following a product delay,downgrade,UnitedHealth,seed,downgrade:9
+Bank of America downgrades Mastercard from buy to hold following a product delay,downgrade,Mastercard,seed,downgrade:9
+Citi downgrades Disney from buy to hold following a product delay,downgrade,Disney,seed,downgrade:9
+UBS downgrades Adobe from buy to hold following a product delay,downgrade,Adobe,seed,downgrade:9
+Jefferies downgrades PayPal from buy to hold following a product delay,downgrade,PayPal,seed,downgrade:9
+Apple beats earnings estimates and raises full-year guidance,positive,Apple,seed,positive:0
+Microsoft beats earnings estimates and raises full-year guidance,positive,Microsoft,seed,positive:0
+Amazon beats earnings estimates and raises full-year guidance,positive,Amazon,seed,positive:0
+Google beats earnings estimates and raises full-year guidance,positive,Google,seed,positive:0
+Tesla beats earnings estimates and raises full-year guidance,positive,Tesla,seed,positive:0
+Nvidia beats earnings estimates and raises full-year guidance,positive,Nvidia,seed,positive:0
+Microsoft reports record revenue growth and expanding operating margins,positive,Microsoft,seed,positive:1
+Amazon reports record revenue growth and expanding operating margins,positive,Amazon,seed,positive:1
+Google reports record revenue growth and expanding operating margins,positive,Google,seed,positive:1
+Tesla reports record revenue growth and expanding operating margins,positive,Tesla,seed,positive:1
+Nvidia reports record revenue growth and expanding operating margins,positive,Nvidia,seed,positive:1
+JPMorgan reports record revenue growth and expanding operating margins,positive,JPMorgan,seed,positive:1
+Amazon announces a larger buyback and an increase in the dividend,positive,Amazon,seed,positive:2
+Google announces a larger buyback and an increase in the dividend,positive,Google,seed,positive:2
+Tesla announces a larger buyback and an increase in the dividend,positive,Tesla,seed,positive:2
+Nvidia announces a larger buyback and an increase in the dividend,positive,Nvidia,seed,positive:2
+JPMorgan announces a larger buyback and an increase in the dividend,positive,JPMorgan,seed,positive:2
+Johnson & Johnson announces a larger buyback and an increase in the dividend,positive,Johnson & Johnson,seed,positive:2
+"Google wins a major multi-year contract, lifting near-term demand",positive,Google,seed,positive:3
+"Tesla wins a major multi-year contract, lifting near-term demand",positive,Tesla,seed,positive:3
+"Nvidia wins a major multi-year contract, lifting near-term demand",positive,Nvidia,seed,positive:3
+"JPMorgan wins a major multi-year contract, lifting near-term demand",positive,JPMorgan,seed,positive:3
+"Johnson & Johnson wins a major multi-year contract, lifting near-term demand",positive,Johnson & Johnson,seed,positive:3
+"Visa wins a major multi-year contract, lifting near-term demand",positive,Visa,seed,positive:3
+Tesla shares jump after a stronger-than-expected product launch,positive,Tesla,seed,positive:4
+Nvidia shares jump after a stronger-than-expected product launch,positive,Nvidia,seed,positive:4
+JPMorgan shares jump after a stronger-than-expected product launch,positive,JPMorgan,seed,positive:4
+Johnson & Johnson shares jump after a stronger-than-expected product launch,positive,Johnson & Johnson,seed,positive:4
+Visa shares jump after a stronger-than-expected product launch,positive,Visa,seed,positive:4
+Procter & Gamble shares jump after a stronger-than-expected product launch,positive,Procter & Gamble,seed,positive:4
+"Nvidia posts upside on both EPS and sales, sending the stock higher",positive,Nvidia,seed,positive:5
+"JPMorgan posts upside on both EPS and sales, sending the stock higher",positive,JPMorgan,seed,positive:5
+"Johnson & Johnson posts upside on both EPS and sales, sending the stock higher",positive,Johnson & Johnson,seed,positive:5
+"Visa posts upside on both EPS and sales, sending the stock higher",positive,Visa,seed,positive:5
+"Procter & Gamble posts upside on both EPS and sales, sending the stock higher",positive,Procter & Gamble,seed,positive:5
+"UnitedHealth posts upside on both EPS and sales, sending the stock higher",positive,UnitedHealth,seed,positive:5
+Optimistic outlook: JPMorgan sees accelerating cloud and AI demand,positive,JPMorgan,seed,positive:6
+Optimistic outlook: Johnson & Johnson sees accelerating cloud and AI demand,positive,Johnson & Johnson,seed,positive:6
+Optimistic outlook: Visa sees accelerating cloud and AI demand,positive,Visa,seed,positive:6
+Optimistic outlook: Procter & Gamble sees accelerating cloud and AI demand,positive,Procter & Gamble,seed,positive:6
+Optimistic outlook: UnitedHealth sees accelerating cloud and AI demand,positive,UnitedHealth,seed,positive:6
+Optimistic outlook: Mastercard sees accelerating cloud and AI demand,positive,Mastercard,seed,positive:6
+"Johnson & Johnson receives regulatory approval, clearing a key growth hurdle",positive,Johnson & Johnson,seed,positive:7
+"Visa receives regulatory approval, clearing a key growth hurdle",positive,Visa,seed,positive:7
+"Procter & Gamble receives regulatory approval, clearing a key growth hurdle",positive,Procter & Gamble,seed,positive:7
+"UnitedHealth receives regulatory approval, clearing a key growth hurdle",positive,UnitedHealth,seed,positive:7
+"Mastercard receives regulatory approval, clearing a key growth hurdle",positive,Mastercard,seed,positive:7
+"Disney receives regulatory approval, clearing a key growth hurdle",positive,Disney,seed,positive:7
+Visa same-store sales surprise to the upside in the latest quarter,positive,Visa,seed,positive:8
+Procter & Gamble same-store sales surprise to the upside in the latest quarter,positive,Procter & Gamble,seed,positive:8
+UnitedHealth same-store sales surprise to the upside in the latest quarter,positive,UnitedHealth,seed,positive:8
+Mastercard same-store sales surprise to the upside in the latest quarter,positive,Mastercard,seed,positive:8
+Disney same-store sales surprise to the upside in the latest quarter,positive,Disney,seed,positive:8
+Adobe same-store sales surprise to the upside in the latest quarter,positive,Adobe,seed,positive:8
+"Procter & Gamble management sounds confident on a call, highlighting operating leverage",positive,Procter & Gamble,seed,positive:9
+"UnitedHealth management sounds confident on a call, highlighting operating leverage",positive,UnitedHealth,seed,positive:9
+"Mastercard management sounds confident on a call, highlighting operating leverage",positive,Mastercard,seed,positive:9
+"Disney management sounds confident on a call, highlighting operating leverage",positive,Disney,seed,positive:9
+"Adobe management sounds confident on a call, highlighting operating leverage",positive,Adobe,seed,positive:9
+"PayPal management sounds confident on a call, highlighting operating leverage",positive,PayPal,seed,positive:9
+Apple misses earnings estimates and cuts full-year guidance,negative,Apple,seed,negative:0
+Microsoft misses earnings estimates and cuts full-year guidance,negative,Microsoft,seed,negative:0
+Amazon misses earnings estimates and cuts full-year guidance,negative,Amazon,seed,negative:0
+Google misses earnings estimates and cuts full-year guidance,negative,Google,seed,negative:0
+Tesla misses earnings estimates and cuts full-year guidance,negative,Tesla,seed,negative:0
+Nvidia misses earnings estimates and cuts full-year guidance,negative,Nvidia,seed,negative:0
+Microsoft reports shrinking revenue and contracting operating margins,negative,Microsoft,seed,negative:1
+Amazon reports shrinking revenue and contracting operating margins,negative,Amazon,seed,negative:1
+Google reports shrinking revenue and contracting operating margins,negative,Google,seed,negative:1
+Tesla reports shrinking revenue and contracting operating margins,negative,Tesla,seed,negative:1
+Nvidia reports shrinking revenue and contracting operating margins,negative,Nvidia,seed,negative:1
+JPMorgan reports shrinking revenue and contracting operating margins,negative,JPMorgan,seed,negative:1
+Amazon suspends its buyback and trims the dividend,negative,Amazon,seed,negative:2
+Google suspends its buyback and trims the dividend,negative,Google,seed,negative:2
+Tesla suspends its buyback and trims the dividend,negative,Tesla,seed,negative:2
+Nvidia suspends its buyback and trims the dividend,negative,Nvidia,seed,negative:2
+JPMorgan suspends its buyback and trims the dividend,negative,JPMorgan,seed,negative:2
+Johnson & Johnson suspends its buyback and trims the dividend,negative,Johnson & Johnson,seed,negative:2
+"Google loses a major contract, pressuring near-term demand",negative,Google,seed,negative:3
+"Tesla loses a major contract, pressuring near-term demand",negative,Tesla,seed,negative:3
+"Nvidia loses a major contract, pressuring near-term demand",negative,Nvidia,seed,negative:3
+"JPMorgan loses a major contract, pressuring near-term demand",negative,JPMorgan,seed,negative:3
+"Johnson & Johnson loses a major contract, pressuring near-term demand",negative,Johnson & Johnson,seed,negative:3
+"Visa loses a major contract, pressuring near-term demand",negative,Visa,seed,negative:3
+Tesla shares slide after a weaker-than-expected product launch,negative,Tesla,seed,negative:4
+Nvidia shares slide after a weaker-than-expected product launch,negative,Nvidia,seed,negative:4
+JPMorgan shares slide after a weaker-than-expected product launch,negative,JPMorgan,seed,negative:4
+Johnson & Johnson shares slide after a weaker-than-expected product launch,negative,Johnson & Johnson,seed,negative:4
+Visa shares slide after a weaker-than-expected product launch,negative,Visa,seed,negative:4
+Procter & Gamble shares slide after a weaker-than-expected product launch,negative,Procter & Gamble,seed,negative:4
+"Nvidia posts a miss on both EPS and sales, sending the stock lower",negative,Nvidia,seed,negative:5
+"JPMorgan posts a miss on both EPS and sales, sending the stock lower",negative,JPMorgan,seed,negative:5
+"Johnson & Johnson posts a miss on both EPS and sales, sending the stock lower",negative,Johnson & Johnson,seed,negative:5
+"Visa posts a miss on both EPS and sales, sending the stock lower",negative,Visa,seed,negative:5
+"Procter & Gamble posts a miss on both EPS and sales, sending the stock lower",negative,Procter & Gamble,seed,negative:5
+"UnitedHealth posts a miss on both EPS and sales, sending the stock lower",negative,UnitedHealth,seed,negative:5
+Cautious outlook: JPMorgan warns of slowing cloud and consumer demand,negative,JPMorgan,seed,negative:6
+Cautious outlook: Johnson & Johnson warns of slowing cloud and consumer demand,negative,Johnson & Johnson,seed,negative:6
+Cautious outlook: Visa warns of slowing cloud and consumer demand,negative,Visa,seed,negative:6
+Cautious outlook: Procter & Gamble warns of slowing cloud and consumer demand,negative,Procter & Gamble,seed,negative:6
+Cautious outlook: UnitedHealth warns of slowing cloud and consumer demand,negative,UnitedHealth,seed,negative:6
+Cautious outlook: Mastercard warns of slowing cloud and consumer demand,negative,Mastercard,seed,negative:6
+"Johnson & Johnson faces a regulatory setback, raising risk to the growth plan",negative,Johnson & Johnson,seed,negative:7
+"Visa faces a regulatory setback, raising risk to the growth plan",negative,Visa,seed,negative:7
+"Procter & Gamble faces a regulatory setback, raising risk to the growth plan",negative,Procter & Gamble,seed,negative:7
+"UnitedHealth faces a regulatory setback, raising risk to the growth plan",negative,UnitedHealth,seed,negative:7
+"Mastercard faces a regulatory setback, raising risk to the growth plan",negative,Mastercard,seed,negative:7
+"Disney faces a regulatory setback, raising risk to the growth plan",negative,Disney,seed,negative:7
+Visa same-store sales disappoint in the latest quarter,negative,Visa,seed,negative:8
+Procter & Gamble same-store sales disappoint in the latest quarter,negative,Procter & Gamble,seed,negative:8
+UnitedHealth same-store sales disappoint in the latest quarter,negative,UnitedHealth,seed,negative:8
+Mastercard same-store sales disappoint in the latest quarter,negative,Mastercard,seed,negative:8
+Disney same-store sales disappoint in the latest quarter,negative,Disney,seed,negative:8
+Adobe same-store sales disappoint in the latest quarter,negative,Adobe,seed,negative:8
+"Procter & Gamble management sounds defensive on a call, highlighting cost pressure",negative,Procter & Gamble,seed,negative:9
+"UnitedHealth management sounds defensive on a call, highlighting cost pressure",negative,UnitedHealth,seed,negative:9
+"Mastercard management sounds defensive on a call, highlighting cost pressure",negative,Mastercard,seed,negative:9
+"Disney management sounds defensive on a call, highlighting cost pressure",negative,Disney,seed,negative:9
+"Adobe management sounds defensive on a call, highlighting cost pressure",negative,Adobe,seed,negative:9
+"PayPal management sounds defensive on a call, highlighting cost pressure",negative,PayPal,seed,negative:9
+Microsoft cloud backlog hits a record as Azure growth re-accelerates,positive,,seed,extra:0
+Nvidia data-center revenue surges on hyperscaler AI spending,positive,,seed,extra:1
+Apple services revenue reaches a new high amid installed-base growth,positive,,seed,extra:2
+Amazon AWS margins expand as cost discipline takes hold,positive,,seed,extra:3
+Tesla deliveries beat the Street as factory utilization improves,positive,,seed,extra:4
+"Costco membership renewals stay elevated, supporting fee income",positive,,seed,extra:5
+Pfizer vaccine sales collapse faster than expected,negative,,seed,extra:6
+Intel delays a process node and warns of further share losses,negative,,seed,extra:7
+Boeing production halt adds to delivery and cash-flow risk,negative,,seed,extra:8
+Disney streaming losses widen as subscriber growth stalls,negative,,seed,extra:9
+PayPal checkout volume slows with weaker consumer spending,negative,,seed,extra:10
+Verizon wireless net adds disappoint as price rises bite,negative,,seed,extra:11
+Morgan Stanley upgrades Nvidia to overweight on AI demand durability,upgrade,,seed,extra:12
+Bank of America upgrades Eli Lilly on obesity-franchise momentum,upgrade,,seed,extra:13
+Jefferies upgrades Broadcom to buy after custom-chip wins,upgrade,,seed,extra:14
+Citi upgrades Walmart to overweight on market-share gains,upgrade,,seed,extra:15
+Barclays downgrades Tesla to underweight on margin compression,downgrade,,seed,extra:16
+UBS downgrades Netflix to sell on password-sharing fatigue,downgrade,,seed,extra:17
+Deutsche Bank downgrades Intel to hold after guidance cut,downgrade,,seed,extra:18
+Wells Fargo downgrades Nike to underweight on China weakness,downgrade,,seed,extra:19
